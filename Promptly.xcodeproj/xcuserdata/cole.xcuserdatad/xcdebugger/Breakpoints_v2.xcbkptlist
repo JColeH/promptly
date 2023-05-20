@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D32D9B4F-E0D8-471F-B75C-C2A3C4C58E33"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24B64B52-EAC0-4628-87A2-A73AC5DF15BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/New Group1/AudioCaptureView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "455"
+            endingLineNumber = "455"
+            landmarkName = "requestTranscription(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98812355-3039-499C-AF2B-F109298027DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/New Group1/AudioCaptureView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "453"
+            endingLineNumber = "453"
+            landmarkName = "requestTranscription(from:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "98812355-3039-499C-AF2B-F109298027DA - b9e9b04e590618ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Talker2.TranscriberViewModel.requestTranscription(from: Swift.Array&lt;Swift.Float&gt;) async -&gt; ()"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/New%20Group1/AudioCaptureView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "454"
+                  endingLineNumber = "454"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "98812355-3039-499C-AF2B-F109298027DA - 1c0f3bbdc07d08ca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Talker2.TranscriberViewModel.requestTranscription(from: Swift.Array&lt;Swift.Float&gt;) async -&gt; ()"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/New%20Group1/AudioCaptureView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "454"
+                  endingLineNumber = "454"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "98812355-3039-499C-AF2B-F109298027DA - 8a9231d0ba00540c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for Talker2.TranscriberViewModel.requestTranscription(from: Swift.Array&lt;Swift.Float&gt;) async -&gt; ()"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/New%20Group1/AudioCaptureView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "454"
+                  endingLineNumber = "454"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "98812355-3039-499C-AF2B-F109298027DA - e3c671984a81726b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Talker2.TranscriberViewModel.requestTranscription(from: Swift.Array&lt;Swift.Float&gt;) async -&gt; ()"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/New%20Group1/AudioCaptureView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "454"
+                  endingLineNumber = "454"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5B7BC1BE-422B-4FA6-8D80-7E64B701D1BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Transcription/Transcriber.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "loadModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D862FBA-79EF-4D84-BCA9-B5F6FE665F3B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Transcription/Transcriber.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "loadModel()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B9F2132-957A-4537-856C-54106E77F4C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/HotKeyAndWindowManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "setupActivateHotkey()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7B9F2132-957A-4537-856C-54106E77F4C8 - 82b916bee73054e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talker2.HotKeyWindowManager.setupActivateHotkey() -&gt; ()"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/Managers/HotKeyAndWindowManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "7B9F2132-957A-4537-856C-54106E77F4C8 - 82b916bee73054e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talker2.HotKeyWindowManager.setupActivateHotkey() -&gt; ()"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/Managers/HotKeyAndWindowManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CF09407-C768-4257-8B0E-9E0D260223AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/HotKeyAndWindowManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "window"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6171A562-FBD5-4B50-A5FA-6439C39DF06C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/HotKeyAndWindowManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "activateHotKey"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7E083E06-167C-4B04-B2AA-52A5A7FAA77A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/HotKeyAndWindowManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "setupActivateHotkey()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F13A8953-FCB5-4C00-8AED-8FE274DD83D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/HotKeyAndWindowManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "setupActivateHotkey()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A8F604E-9ACC-4990-9C0B-5E082251780D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/UI/PreferencesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E4E134F3-0310-4961-B298-8BADF8D2D1D4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/UI/PreferencesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "214"
+            endingLineNumber = "214"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F5DD171-CA28-4F97-9A44-B1C3BDEDC72A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/UI/PreferencesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3DBB2D98-32D7-44BF-B2A1-D4FCF8066899"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/UI/PreferencesView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A6A177DD-17E0-4A28-A4D2-909742E7E06F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/Talker2-fqirsirmcmfkfgdyktlamuedpraz/SourcePackages/checkouts/HotKey/Sources/HotKey/HotKeysController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "register(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A6A177DD-17E0-4A28-A4D2-909742E7E06F - d4a59e2520fe4470"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static HotKey.HotKeysController.register(HotKey.HotKey) -&gt; ()"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/Library/Developer/Xcode/DerivedData/Talker2-fqirsirmcmfkfgdyktlamuedpraz/SourcePackages/checkouts/HotKey/Sources/HotKey/HotKeysController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "A6A177DD-17E0-4A28-A4D2-909742E7E06F - 32dba8bc1fe2e54d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (HotKey.HotKeysController.HotKeyBox) -&gt; Swift.Bool in static HotKey.HotKeysController.register(HotKey.HotKey) -&gt; ()"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/Library/Developer/Xcode/DerivedData/Talker2-fqirsirmcmfkfgdyktlamuedpraz/SourcePackages/checkouts/HotKey/Sources/HotKey/HotKeysController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "38CDAA29-24CD-4364-A5D3-5FCFBED6072D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/Audio Capture/AudioCaptureManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "latestNoiseEventDate"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E190C0FF-CD1D-4A99-A32E-4DEACEEC25FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/SessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "startTranscription()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBC00D32-8BE7-42F8-84C3-273BFD562D41"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/SessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "startTranscription()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A8CD617-4AE5-42DD-9095-C1550E25D303"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/SessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "stop()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81727B09-48ED-4673-96BB-9D9E60295A55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/SessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "stop()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B62B6FED-DEA3-4B38-A204-B56B3730FA33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/Audio Capture/AudioCaptureManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4"
+            endingLineNumber = "4"
+            landmarkName = "AudioCaptureManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B62B6FED-DEA3-4B38-A204-B56B3730FA33 - f3cd23ce07d7b9ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of Talker2.AudioCaptureManager.isRecording : Swift.Bool"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/Managers/Audio%20Capture/AudioCaptureManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "B62B6FED-DEA3-4B38-A204-B56B3730FA33 - b874fe8b01b1643a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talker2.AudioCaptureManager.isRecording.getter : Swift.Bool"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/Managers/Audio%20Capture/AudioCaptureManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "B62B6FED-DEA3-4B38-A204-B56B3730FA33 - 3aa69c55da9e4c36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talker2.AudioCaptureManager.isRecording.setter : Swift.Bool"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/Managers/Audio%20Capture/AudioCaptureManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "B62B6FED-DEA3-4B38-A204-B56B3730FA33 - cbc226eb78514207"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talker2.AudioCaptureManager.isRecording.modify : Swift.Bool"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/Managers/Audio%20Capture/AudioCaptureManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B62B6FED-DEA3-4B38-A204-B56B3730FA33 - d2b7397c47528636"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talker2.AudioCaptureManager.isRecording.modify : Swift.Bool with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/Managers/Audio%20Capture/AudioCaptureManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "B62B6FED-DEA3-4B38-A204-B56B3730FA33 - f2fefa394c62f559"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talker2.AudioCaptureManager.$isRecording.getter : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/Managers/Audio%20Capture/AudioCaptureManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "B62B6FED-DEA3-4B38-A204-B56B3730FA33 - 21493a81aed0b955"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talker2.AudioCaptureManager.$isRecording.setter : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/Managers/Audio%20Capture/AudioCaptureManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "216">
+               </Location>
+               <Location
+                  uuid = "B62B6FED-DEA3-4B38-A204-B56B3730FA33 - 3bc3a02414373f75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talker2.AudioCaptureManager.$isRecording.modify : Combine.Published&lt;Swift.Bool&gt;.Publisher"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "B62B6FED-DEA3-4B38-A204-B56B3730FA33 - d76a6ef46fa5ba0a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talker2.AudioCaptureManager.$isRecording.modify : Combine.Published&lt;Swift.Bool&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/Managers/Audio%20Capture/AudioCaptureManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "B62B6FED-DEA3-4B38-A204-B56B3730FA33 - d49fbea65d9d95ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Talker2.AudioCaptureManager.init() -&gt; Talker2.AudioCaptureManager"
+                  moduleName = "Talker2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Talker2/Managers/Audio%20Capture/AudioCaptureManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "4"
+                  endingLineNumber = "4"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4FC4B0A-5B5F-4184-A6AB-4B35359238CB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/Audio Capture/AudioCaptureManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "startRecording()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1748DDA4-BF14-42A6-AC18-C30572275030"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/Audio Capture/AudioCaptureManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "stopRecording()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DAECD00-05D1-4B7F-B99E-49A648F75950"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Talker2/Managers/SessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "init(modelName:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A165CE57-045B-4BFE-B6A7-2321038BE3B4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Promptly/UI/RecorderView/RecorderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "actions"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA8C975B-ABA4-4CC8-941B-3E11D02A2FBC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Promptly/UI/AudioDebugView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "currentLogEntry"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AA8C975B-ABA4-4CC8-941B-3E11D02A2FBC - 7c02f98ae2697347"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Promptly.AudioDebugView.currentLogEntry.getter : Swift.Optional&lt;Promptly.LogEntry&gt;"
+                  moduleName = "Promptly"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Promptly/UI/AudioDebugView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "AA8C975B-ABA4-4CC8-941B-3E11D02A2FBC - b919fad57f9d820"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Promptly.LogEntry) -&gt; Swift.Bool in Promptly.AudioDebugView.currentLogEntry.getter : Swift.Optional&lt;Promptly.LogEntry&gt;"
+                  moduleName = "Promptly"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cole/SoftwareDevelopment/My-Projects/Talker2/Promptly/UI/AudioDebugView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87491111-8B89-4F65-AB92-ECABBDA6D148"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Promptly/UI/AudioDebugView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "currentLogEntry"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D02D083-51DE-43D9-971E-1F4F39ECAA8A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Promptly/Managers/SessionManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

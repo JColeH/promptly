@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:">
+   </FileRef>
+   <Group
+      location = "group:../whisper"
+      name = "whisper">
+      <FileRef
+         location = "group:whisper.h">
+      </FileRef>
+      <FileRef
+         location = "group:CMakeLists.txt">
+      </FileRef>
+      <FileRef
+         location = "group:ggml-opencl.h">
+      </FileRef>
+      <Group
+         location = "group:cmake"
+         name = "cmake">
+         <FileRef
+            location = "group:BuildTypes.cmake">
+         </FileRef>
+         <FileRef
+            location = "group:DefaultTargetOptions.cmake">
+         </FileRef>
+         <FileRef
+            location = "group:GitVars.cmake">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:ggml.c">
+      </FileRef>
+      <FileRef
+         location = "group:whisper.cpp">
+      </FileRef>
+      <FileRef
+         location = "group:ggml-opencl.c">
+      </FileRef>
+      <FileRef
+         location = "group:ggml-cuda.h">
+      </FileRef>
+      <Group
+         location = "group:bindings"
+         name = "bindings">
+         <Group
+            location = "group:go"
+            name = "go">
+            <FileRef
+               location = "group:go.mod">
+            </FileRef>
+            <FileRef
+               location = "group:params.go">
+            </FileRef>
+            <FileRef
+               location = "group:LICENSE">
+            </FileRef>
+            <FileRef
+               location = "group:Makefile">
+            </FileRef>
+            <FileRef
+               location = "group:go.sum">
+            </FileRef>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+            <Group
+               location = "group:samples"
+               name = "samples">
+               <FileRef
+                  location = "group:jfk.wav">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:doc.go">
+            </FileRef>
+            <Group
+               location = "group:examples"
+               name = "examples">
+               <Group
+                  location = "group:go-model-download"
+                  name = "go-model-download">
+                  <FileRef
+                     location = "group:context.go">
+                  </FileRef>
+                  <FileRef
+                     location = "group:main.go">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:go-whisper"
+                  name = "go-whisper">
+                  <FileRef
+                     location = "group:color.go">
+                  </FileRef>
+                  <FileRef
+                     location = "group:flags.go">
+                  </FileRef>
+                  <FileRef
+                     location = "group:process.go">
+                  </FileRef>
+                  <FileRef
+                     location = "group:main.go">
+                  </FileRef>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:whisper.go">
+            </FileRef>
+            <FileRef
+               location = "group:whisper_test.go">
+            </FileRef>
+            <Group
+               location = "group:pkg"
+               name = "pkg">
+               <Group
+                  location = "group:whisper"
+                  name = "whisper">
+                  <FileRef
+                     location = "group:consts.go">
+                  </FileRef>
+                  <FileRef
+                     location = "group:interface.go">
+                  </FileRef>
+                  <FileRef
+                     location = "group:context_test.go">
+                  </FileRef>
+                  <FileRef
+                     location = "group:doc.go">
+                  </FileRef>
+                  <FileRef
+                     location = "group:context.go">
+                  </FileRef>
+                  <FileRef
+                     location = "group:model.go">
+                  </FileRef>
+               </Group>
+            </Group>
+         </Group>
+         <FileRef
+            location = "group:CMakeLists.txt">
+         </FileRef>
+         <Group
+            location = "group:ios"
+            name = "ios">
+         </Group>
+         <Group
+            location = "group:javascript"
+            name = "javascript">
+            <FileRef
+               location = "group:emscripten.cpp">
+            </FileRef>
+            <FileRef
+               location = "group:CMakeLists.txt">
+            </FileRef>
+            <FileRef
+               location = "group:libwhisper.worker.js">
+            </FileRef>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+            <FileRef
+               location = "group:package.json">
+            </FileRef>
+            <FileRef
+               location = "group:package-tmpl.json">
+            </FileRef>
+            <FileRef
+               location = "group:whisper.js">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:ruby"
+            name = "ruby">
+            <Group
+               location = "group:ext"
+               name = "ext">
+               <FileRef
+                  location = "group:ruby_whisper.h">
+               </FileRef>
+               <FileRef
+                  location = "group:extconf.rb">
+               </FileRef>
+               <FileRef
+                  location = "group:ruby_whisper.cpp">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:tests"
+               name = "tests">
+               <FileRef
+                  location = "group:test_whisper.rb">
+               </FileRef>
+            </Group>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:ggml-cuda.cu">
+      </FileRef>
+      <FileRef
+         location = "group:ggml.h">
+      </FileRef>
+   </Group>
+</Workspace>
